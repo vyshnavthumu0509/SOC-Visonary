@@ -12,7 +12,6 @@ I started with **data exploration** and moved step-by-step through building, tra
 
 > 📌 The repository includes:  
 > - All assignment code  
-> - Visualizations and metrics  
 > - Reflections and learning summaries
 
 ---
