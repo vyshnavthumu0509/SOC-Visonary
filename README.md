@@ -1,6 +1,6 @@
 # ✨ Visionary – Summer of Code 2025  
 👨‍💻 **By:** Vyshnav Thumu 
-📁 **GitHub Repo:** [SOC-Visionary](https://github.com/JoshuaVivek/SOC-Visionary)
+📁 **GitHub Repo:** [SOC-Visionary](https://github.com/vyshnavthumu0509/SOC-Visonary)
 
 ---
 
